@@ -1,0 +1,1 @@
+Meu nome é Rodrigo Rocha Gomes e Souza, sou professor da disciplina, e espero ajudar os estudantes a aprender técnicas e ferramentas que serão muito úteis nos seus futuros como desenvolvedores de software.
