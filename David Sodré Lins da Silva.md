@@ -1,0 +1,1 @@
+Meu nome é David Sodré, sou do curso de Computação e espero aprender mais sobre versionamento atualmente e enfim aprender as técnicas de testes automatizados além de poder fazer amizades com meus futuros colegas de trabalho! Além de me dedicar ao máximo para me tornar um excelente professor para nós e os nossos filhos!!!
