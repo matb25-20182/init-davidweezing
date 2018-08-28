@@ -7,4 +7,5 @@ Os estudantes deverão clonar o repositório e então realizar duas contribuiç�
 
 Autores:
 - David Sodré Lins da Silva - <https://github.com/davidweezing>
+- Felipe Araújo da Silva - <https://github.com/liooh>
 - Rodrigo Rocha Gomes e Souza - <https://github.com/rodrigorgs>
